@@ -9,3 +9,4 @@ Word list is randomly selected from the txt file of the corresponding mode.
 ![Uploading image.png…]()
 
 
+
